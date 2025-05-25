@@ -78,10 +78,3 @@ npm start
 * Admin dashboard for managing content and users
 * Multi-language support (e.g., Hindi, Tamil, Kannada, etc.)
 * Community forum or quiz sections for interactive learning
-
-
-This project is licensed under the **MIT License**.
-
----
-
-Let me know if you’d like a version with GitHub Pages or Netlify deployment instructions included as well!
